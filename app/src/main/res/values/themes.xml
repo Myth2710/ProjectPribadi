@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.Kosongan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorSecondary">@color/blue</item>
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.Kosongan" parent="Base.Theme.Kosongan" />
+</resources>
